@@ -1,4 +1,4 @@
-# Домашнее задание 2. Задача 1. Калькулятор
+# Домашнее задание 2. Задача 2. Бинарный калькулятор
 
-Решение задачи [отсюда](https://github.com/netology-code/jd-homeworks/tree/master/structural/task1)
+Решение задачи [отсюда](https://github.com/netology-code/jd-homeworks/tree/master/structural/task2)
 
